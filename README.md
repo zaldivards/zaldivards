@@ -1,31 +1,14 @@
-### Hi there 👋, I'm Christian Zaldivar
+### Hi there ✨, I'm Christian Zaldivar
 
-<!--
-**zaldivards/zaldivards** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 I'm a software developer with strong skills using Python and Java. I became a data guy since 2019. I've been learning about data analysis and AI topics since then.
 
 Nowadays, my role is as a Data Scientist at **The DataWay**. In my daily basis I perform tasks related to ETL and data analysis using descriptive analysis and/or ML. In my current company, I've used different type of techniques such as time series forecasting, customer segmentation and basket analysis. I'm currently learning about NLP using [NLTK](https://www.nltk.org/).
 
 #### These are some of my hobbies:
 
-:books: Learning about data topics such as python libraries, ML, [spark](https://spark.apache.org/), [airflow](https://airflow.apache.org/), etc. 
-
-:chart_with_upwards_trend: I'm interested in cryptocurrencies and the stock market.
-
-:video_game: Big fan of videogames.
-
+:books: Learning about data topics such as python libraries, ML, [spark](https://spark.apache.org/), [airflow](https://airflow.apache.org/), etc. <br>
+:chart_with_upwards_trend: I'm interested in cryptocurrencies and the stock market.<br>
+:video_game: Big fan of videogames.<br>
 :earth_americas: I enjoy nature.
 
 #### About my skills
