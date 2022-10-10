@@ -2,7 +2,7 @@
 
 I'm a software developer with strong skills using Python and Java. I became a data guy since 2019. I've been learning about data analysis and AI topics since then.
 
-Nowadays, my role is as a Data Scientist at **The DataWay**. In my daily basis I perform tasks related to ETL and data analysis using descriptive analysis and/or ML. In my current company, I've used different type of techniques such as time series forecasting, customer segmentation and basket analysis. I'm currently learning about NLP using [NLTK](https://www.nltk.org/).
+Nowadays, my role is as a Python Engineer at **Azumo**. In my daily basis I perform tasks related to ETL and data analysis using descriptive analysis and/or ML. Throughout my journey in the field, I've used different type of techniques such as time series forecasting, customer segmentation and basket analysis. I'm currently learning about NLP using [NLTK](https://www.nltk.org/).
 
 #### These are some of my hobbies:
 
